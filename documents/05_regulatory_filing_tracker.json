@@ -1,0 +1,36 @@
+{
+  "document_id": "NCS-REG-FILING-001",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "classification": "Internal Training Use Only (Sample Data)",
+  "filings": [
+    {
+      "filing_id": "FIL-1001",
+      "jurisdiction": "United Kingdom",
+      "description": "Quarterly Telecommunications Compliance Return",
+      "due_date": "2026-09-30",
+      "status": "Overdue"
+    },
+    {
+      "filing_id": "FIL-1002",
+      "jurisdiction": "India",
+      "description": "Data Protection Compliance Report",
+      "due_date": "2026-10-25",
+      "status": "Due Within 30 Days"
+    },
+    {
+      "filing_id": "FIL-1003",
+      "jurisdiction": "Singapore",
+      "description": "Network Security Certification Filing",
+      "due_date": "2026-12-15",
+      "status": "Upcoming"
+    },
+    {
+      "filing_id": "FIL-1004",
+      "jurisdiction": "Australia",
+      "description": "Annual Telecommunications Licence Renewal",
+      "due_date": "2027-01-31",
+      "status": "Upcoming"
+    }
+  ]
+}

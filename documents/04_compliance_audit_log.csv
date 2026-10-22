@@ -1,0 +1,7 @@
+audit_id,date,area_audited,finding,severity,status
+AUD-1001,2026-01-15,Data Privacy,Missing customer consent records,High,Open
+AUD-1002,2026-02-10,Vendor Management,Incomplete supplier risk assessment,Medium,Closed
+AUD-1003,2026-03-05,Information Security,Expired privileged access review,High,Open
+AUD-1004,2026-04-18,Regulatory Reporting,Late compliance report submission,Critical,Closed
+AUD-1005,2026-05-22,Contract Management,Missing signed contract amendments,Medium,Open
+AUD-1006,2026-06-30,Business Continuity,Outdated disaster recovery documentation,Low,Closed
